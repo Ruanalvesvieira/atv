@@ -1,0 +1,10 @@
+COMO INSTALAR 
+
+Passo 1: Abra a pasta acima, e execute o aplicativo "Stardew Valley.exe"
+
+Passo 2: Caso de algum erro de DLL, Vá na pasta "_Redist" e instale tudo que tem dentro dela
+         e abra o jogo novamente 
+
+CREDITOS: Site Jogos De Todos Os Tipos
+
+BAIXE JOGOS GRATUITAMENTE, SEM VIRUS, ATUALIZADOS, E COM TUTORIAL --> https://jogotodotipo.blogspot.com
